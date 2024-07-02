@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "eventDescription": "Tech Meetup 2025 is happening on May 15th – 16th in Austin.",
+        "linkText": "Grab your spot"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Inspire, Innovate, and Empower through Technical Expertise",
+        "title": "Unlock the Future with Yay"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Inspire, Innovate, and Empower through Technical Expertise",
+        "title": "Unlock the Future with Yay"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Inspire, Innovate, and Empower through Technical Expertise",
+        "title": "Unlock the Future with Yay"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Inspire, Innovate, and Empower through Technical Expertise",
+        "title": "Unlock the Future with Yay"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Inspire, Innovate, and Empower through Technical Expertise",
+        "title": "Unlock the Future with Yay"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Inspire, Innovate, and Empower through Technical Expertise",
+        "title": "Unlock the Future with Yay"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Inspire, Innovate, and Empower through Technical Expertise",
+        "title": "Unlock the Future with Yay"
+      }
+    }
+  ],
+  "theme": "dark",
+  "font": "",
+  "title": "Unlock the Future with Yay",
+  "subtitle": "Inspire, Innovate, and Empower through Technical Expertise"
+}
